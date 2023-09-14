@@ -9,14 +9,14 @@ In this repository, you'll find C++ implementations of various data structures, 
 ## Available Data Structures
 
 1. **[Array](Array/)**: An implementation of dynamic arrays in C++.
-2. **[Linked List](LinkedList/)**: Singly and doubly linked list implementations.
-3. **[Stack](Stack/)**: Implementation of a stack data structure.
-4. **[Queue](Queue/)**: Implementation of a queue data structure.
-5. **[Binary Tree](BinaryTree/)**: Binary tree and binary search tree (BST) implementations.
-6. **[Heap](Heap/)**: Min-heap and max-heap implementations.
-7. **[Hash Table](HashTable/)**: Implementation of a hash table using open addressing.
-8. **[Graph](Graph/)**: Graph data structure and traversal algorithms.
-9. **[Sorting Algorithms](SortingAlgorithms/)**: Common sorting algorithms like bubble sort, insertion sort, and more.
+2. **[Singly Linked List](SinglyLinkedList/)**: An implementation of Singly Linked List in C++.
+3. **[Doubly Linked List](DoublyLinkedList/)**: Doubly linked list implementations.
+4. **[Stack](Stack/)**: Implementation of a stack data structure.
+5. **[Queue](Queue/)**: Implementation of a queue data structure.
+6. **[Binary Search Tree](BinarySearchTree/)**: Binary search tree (BST) implementations.
+7. **[Heap](Heap/)**: Min-heap and max-heap implementations.
+8. **[Hash Table](HashTable/)**: Implementation of a hash table using open addressing.
+9. **[Graph](Graph/)**: Graph data structure and traversal algorithms.
 
 ## Getting Started
 
