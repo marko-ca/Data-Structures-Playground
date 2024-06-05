@@ -1,7 +1,0 @@
-git commit --date='2023-8-4' -m "Useless Commit 1"
-git commit --date='2023-8-5' -m "Useless Commit 2"
-git commit --date='2023-8-6' -m "Useless Commit 3"
-git commit --date='2023-8-7' -m "Useless Commit 4"
-git commit --date='2023-8-8' -m "Useless Commit 5"
-git commit --date='2023-8-9' -m "Useless Commit 6"
-git commit --date='2023-8-10' -m "Useless Commit 7"
